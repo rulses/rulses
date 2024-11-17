@@ -11,3 +11,5 @@ Relevant Classes
 - Data Wrangling
 - Marketing Analytics
 
+linkedIn: 
+https://www.linkedin.com/in/reed-ulses/ 
